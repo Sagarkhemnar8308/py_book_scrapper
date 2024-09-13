@@ -1,0 +1,3 @@
+# connect mongoDB 
+# scrapy startproject booksdata
+# scrapy crawl books
